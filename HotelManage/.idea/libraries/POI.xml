@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="POI">
+    <CLASSES>
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-5.2.2.jar!/" />
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-examples-5.2.2.jar!/" />
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-excelant-5.2.2.jar!/" />
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-ooxml-5.2.2.jar!/" />
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar!/" />
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar!/" />
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar!/" />
+      <root url="file://C:/javajdk/jar/poi-bin-5.2.2/lib" />
+      <root url="file://C:/javajdk/jar/poi-bin-5.2.2/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/javajdk/jar/poi-bin-5.2.2/poi-javadoc-5.2.2.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://C:/javajdk/jar/poi-bin-5.2.2/lib" recursive="false" />
+    <jarDirectory url="file://C:/javajdk/jar/poi-bin-5.2.2/ooxml-lib" recursive="false" />
+  </library>
+</component>
